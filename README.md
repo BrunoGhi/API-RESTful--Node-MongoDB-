@@ -1,4 +1,4 @@
-# Proyecto integrador final para la diplomatura universitaria en Desarrollo Web FullStack
+# Proyecto backend final para la diplomatura universitaria en Desarrollo Web FullStack
 Este proyecto es una API RESTful desarrollada con Node.js y Express, utilizando MongoDB como base de datos con Mongoose para la capa de acceso a datos. 
 También incorpora las bibliotecas Axios, express-validator, Morgan y Cookie-parser para funcionalidades adicionales. Además cuenta con un Middleware propio.
 
